@@ -3,5 +3,5 @@
 	"BOT_TOKEN": "NDgwMzYyNzg3NjU5MzE3MjQ4.XQrXWQ.PG6SHQLPUkVEGHKNwxysMmre6MY",
 	"BOT_PREFIX": "-",
 	"CLIENT_SECRET": "h5Rzpf4lW8Y8cnC9mC800uOVTbKy77xI",
-	"WEBSITE_URL": "http://localhost:3000"
+	"WEBSITE_URL": "http://localhost:33331"
 }
